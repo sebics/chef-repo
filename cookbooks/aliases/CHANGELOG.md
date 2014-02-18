@@ -1,11 +1,11 @@
-apache2 CHANGELOG
+aliases CHANGELOG
 =================
 
-This file is used to list changes made in each version of the apache2 cookbook.
+This file is used to list changes made in each version of the aliases cookbook.
 
 0.1.0
 -----
-- [your_name] - Initial release of apache2
+- [your_name] - Initial release of aliases
 
 - - -
 Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.
