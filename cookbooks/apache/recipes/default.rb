@@ -14,7 +14,7 @@ end
 # starts the apache service
 # starts on reboot
 service "apache2" do
-  action [:start, :enabled]
+  action [:start, :enable]
 end
 
 # add a file

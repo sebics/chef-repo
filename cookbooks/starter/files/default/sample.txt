@@ -13,4 +13,4 @@ You can create a cookbook_file resource in a recipe file:
 
 A cookbook_file resource can be used with any context, including binary files.
 
-For further information, see the Chef documentation (http://docs.opscode.com/essentials_cookbook_files.html).
+For further information, see the Chef documentation (https://docs.chef.io/essentials_cookbook_files.html).
